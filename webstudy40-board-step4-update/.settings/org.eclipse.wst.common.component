@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="webstudy40-board-step4-update">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="webstudy40-board-step4-update"/>
+        <property name="java-output-path" value="/webstudy40-board-step4-update/build/classes"/>
+    </wb-module>
+</project-modules>
